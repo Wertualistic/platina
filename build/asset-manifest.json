@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ab5fdcf.css",
+    "main.js": "/static/js/main.4e8203e9.js",
+    "static/media/footballer.png": "/static/media/footballer.db7577ea7f3cc6ccb70b.png",
+    "static/media/class.png": "/static/media/class.cd37d65b8c251af7a84f.png",
+    "static/media/air.png": "/static/media/air.e8673b6c92855a3662ec.png",
+    "static/media/img1.png": "/static/media/img1.ff2beb16d00547ea9a08.png",
+    "static/media/img.png": "/static/media/img.91896b6059ab9cbaca34.png",
+    "static/media/biznes.png": "/static/media/biznes.6d43bee5ec3b519de158.png",
+    "static/media/img2.png": "/static/media/img2.c68310fcb0957d494c14.png",
+    "static/media/dori.png": "/static/media/dori.f8893fe1b5b943f315e8.png",
+    "static/media/book.png": "/static/media/book.86058e570c85087f0abe.png",
+    "static/media/ads.png": "/static/media/ads.8350a2fc7070a7de6b6d.png",
+    "static/media/messi.png": "/static/media/messi.808e77114ff21e31eb40.png",
+    "static/media/small.png": "/static/media/small.19d7dcdf64ba1ac0cef8.png",
+    "static/media/matbuot.png": "/static/media/matbuot.f0b928bb68a61d403b10.png",
+    "static/media/USD.svg": "/static/media/USD.18a80e34da4fa1c5b3a79bb8500e2253.svg",
+    "static/media/logo.svg": "/static/media/logo.092bbae44a2bb1e0c7798c2f36aee199.svg",
+    "static/media/redmedia.svg": "/static/media/redmedia.d945f56d89f96be092282e38fd1571e5.svg",
+    "index.html": "/index.html",
+    "main.9ab5fdcf.css.map": "/static/css/main.9ab5fdcf.css.map",
+    "main.4e8203e9.js.map": "/static/js/main.4e8203e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ab5fdcf.css",
+    "static/js/main.4e8203e9.js"
+  ]
+}
